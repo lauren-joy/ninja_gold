@@ -1,0 +1,41 @@
+* {
+    margin: 20px;
+}
+
+.row {
+    text-align: center;
+}
+
+.col {
+    border: solid white 2px;
+    justify-content: space-evenly;
+    height: 200px;
+}
+
+.wrapper {
+    background-image: url(https://media.istockphoto.com/photos/gold-coins-picture-id165418688?k=6&m=165418688&s=612x612&w=0&h=jrPQ0-JizAXZxfSOxw21_eEtLzFk7ARZRgbxxpweD6U=);
+    color: white; 
+
+}
+
+button {
+    width: 90px;
+    margin-left: 10px;
+}
+
+.activites {
+    border: solid black 2px;
+    background-color: ivory;
+    height: 100px;
+    overflow:scroll;
+    padding-bottom: 20px;
+}
+
+#red {
+    color: red;
+}
+
+#green{
+    color: green;
+}
+
